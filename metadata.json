@@ -1,0 +1,16 @@
+{
+  "name": "luismayta-redis",
+  "version": "0.1.0",
+  "author": "luis mayta",
+  "summary": "install redis server",
+  "license": "Apache 2.0",
+  "source": "",
+  "project_page": "",
+  "issues_url": "",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_requirement": ">= 1.0.0"
+    }
+  ]
+}
