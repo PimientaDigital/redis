@@ -7,7 +7,7 @@ class redis::params {
 
   case $::osfamily {
     'Debian': {
-      $package_name = 'redis'
+      $package_name = 'redis-server'
     }
     'RedHat', 'Amazon': {
       $package_name = 'redis'
